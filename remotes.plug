@@ -1,0 +1,9 @@
+[Core]
+Name = Remotes
+Module = remotes.py
+
+[Documentation]
+Description = Tag remote repositories
+
+[Python]
+Version = 2+
